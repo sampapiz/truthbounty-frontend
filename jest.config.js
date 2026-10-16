@@ -54,4 +54,4 @@ module.exports = async () => {
     (pattern) => (typeof pattern === 'string' ? pattern.replace(/\(wagmi/g, '(next-intl|wagmi') : pattern)
   )
   return config
-}
+};
