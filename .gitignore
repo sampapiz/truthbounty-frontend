@@ -52,3 +52,6 @@ storybook-static
 .github/workflows/ci.yml
 create_issues_frontend.sh
 issues_to_created_frontend.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
